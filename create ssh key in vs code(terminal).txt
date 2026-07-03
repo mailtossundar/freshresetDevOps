@@ -1,0 +1,15 @@
+create ssh key in vs code(terminal) 
+ssh keygen rsa
+pub
+prvt
+github paste ssh
+create working directory
+git init
+clone the repository
+echo "# freshresetDevOps" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:mailtossundar/freshresetDevOps.git
+git push -u origin main
